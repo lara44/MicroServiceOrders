@@ -1,0 +1,6 @@
+@MicroServiceOrders.WebApi_HostAddress = http://localhost:5239
+
+GET {{MicroServiceOrders.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
